@@ -1,4 +1,4 @@
-package patterns.command_pattern;
+package patterns.behavioral.command_pattern;
 
 /**
  * Created on 17. November. 16.

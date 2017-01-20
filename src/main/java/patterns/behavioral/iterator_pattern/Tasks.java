@@ -1,4 +1,4 @@
-package patterns.iterator_pattern;
+package patterns.behavioral.iterator_pattern;
 
 /**
  * Created on 21. November. 16.
