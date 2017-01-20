@@ -1,4 +1,4 @@
-package patterns.chain_of_respons_pattern.example;
+package patterns.behavioral.chain_of_respons_pattern.example;
 
 /**
  * Created on 21. November. 16.
