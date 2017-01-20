@@ -1,4 +1,4 @@
-package patterns.mediator_pattern.simple_variant;
+package patterns.behavioral.mediator_pattern.simple_variant;
 
 /**
  * Created on 21. November. 16.

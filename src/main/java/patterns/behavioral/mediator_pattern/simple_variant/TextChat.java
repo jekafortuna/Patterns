@@ -1,4 +1,4 @@
-package patterns.mediator_pattern.simple_variant;
+package patterns.behavioral.mediator_pattern.simple_variant;
 
 import java.util.ArrayList;
 import java.util.List;

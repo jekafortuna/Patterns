@@ -1,4 +1,4 @@
-package patterns.mediator_pattern.sophisticated_variant;
+package patterns.behavioral.mediator_pattern.sophisticated_variant;
 
 /**
  * Created on 21. November. 16.

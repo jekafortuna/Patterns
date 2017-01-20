@@ -1,15 +1,15 @@
-package patterns.mediator_pattern.simple_variant;
+package patterns.behavioral.mediator_pattern.simple_variant;
 
 /**
  * Created on 21. November. 16.
  *
  * @author Evgeniy
  */
-public class Admin implements User {
+public class SimpleUser implements User {
 
     private Chat chat;
 
-    public Admin(Chat chat) {
+    public SimpleUser(Chat chat) {
         this.chat = chat;
     }
 
@@ -20,6 +20,6 @@ public class Admin implements User {
 
     @Override
     public void getMessage(String message) {
-        System.out.println("Admin gets a message '" + message + "'");
+        System.out.println("Simple user gets a message '" + message + "'");
     }
 }
