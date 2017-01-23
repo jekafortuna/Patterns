@@ -1,4 +1,4 @@
-package patterns.state_pattern;
+package patterns.behavioral.state_pattern;
 
 /**
  * Created by Evgeniy on 15.11.2016.

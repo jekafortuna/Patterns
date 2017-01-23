@@ -1,4 +1,4 @@
-package patterns.state_pattern.stateTask;
+package patterns.behavioral.state_pattern.stateTask;
 
 /**
  * Created on 13. December. 16.
