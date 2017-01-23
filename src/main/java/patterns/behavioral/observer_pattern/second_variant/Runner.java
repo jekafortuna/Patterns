@@ -1,4 +1,4 @@
-package patterns.observer_pattern.second_variant;
+package patterns.behavioral.observer_pattern.second_variant;
 
 /**
  * Created on 21. November. 16.

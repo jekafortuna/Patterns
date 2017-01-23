@@ -1,4 +1,4 @@
-package patterns.observer_pattern.first_variant;
+package patterns.behavioral.observer_pattern.first_variant;
 
 import java.io.File;
 import java.io.IOException;

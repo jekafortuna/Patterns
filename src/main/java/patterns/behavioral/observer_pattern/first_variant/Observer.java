@@ -1,4 +1,4 @@
-package patterns.observer_pattern.first_variant;
+package patterns.behavioral.observer_pattern.first_variant;
 
 /**
  * Created on 21. November. 16.

@@ -1,4 +1,4 @@
-package patterns.observer_pattern.first_variant;
+package patterns.behavioral.observer_pattern.first_variant;
 
 import java.util.ArrayList;
 import java.util.List;
