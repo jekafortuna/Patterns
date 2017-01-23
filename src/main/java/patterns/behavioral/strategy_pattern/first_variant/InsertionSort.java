@@ -1,4 +1,4 @@
-package patterns.strategy_pattern;
+package patterns.behavioral.strategy_pattern.first_variant;
 
 import java.util.Arrays;
 

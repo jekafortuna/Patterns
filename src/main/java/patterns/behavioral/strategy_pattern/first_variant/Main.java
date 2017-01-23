@@ -1,4 +1,4 @@
-package patterns.strategy_pattern;
+package patterns.behavioral.strategy_pattern.first_variant;
 
 /**
  * Created by Evgeniy on 15.11.2016.
@@ -16,7 +16,7 @@ public class Main {
         strategyClient.setStrategy(new InsertionSort());
         strategyClient.executeStrategy(array1);
 
-        int[] array2 = {3, -8, 2, 2, 0, 33, 1, 3, 192};
+        int[] array2 = {3, -8, 192, 2, 0, 33, 1, 3, 2};
         strategyClient.setStrategy(new BubbleSort());
         strategyClient.executeStrategy(array2);
     }
