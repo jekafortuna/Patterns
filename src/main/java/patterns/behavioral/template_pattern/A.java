@@ -1,4 +1,4 @@
-package patterns.template_pattern;
+package patterns.behavioral.template_pattern;
 
 /**
  * Created on 21. November. 16.
