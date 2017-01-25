@@ -1,4 +1,4 @@
-package patterns.builder_pattern.builder_plain;
+package patterns.creational.builder_pattern.builder_plain;
 
 /**
  * Created on 17. November. 16.

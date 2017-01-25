@@ -1,4 +1,4 @@
-package patterns.builder_pattern.builder_sophisticated;
+package patterns.creational.builder_pattern.builder_sophisticated;
 
 /**
  * Created on 17. November. 16.
