@@ -1,4 +1,4 @@
-package patterns.abstract_factory_pattern.second_variant;
+package patterns.creational.abstract_factory_pattern.second_variant;
 
 /**
  * Created on 21. November. 16.
