@@ -1,4 +1,4 @@
-package patterns.factory_method_pattern.first_variant;
+package patterns.creational.factory_method_pattern.first_variant;
 
 import java.util.Date;
 
