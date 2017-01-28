@@ -1,4 +1,4 @@
-package patterns.prototype_pattern;
+package patterns.creational.prototype_pattern;
 
 /**
  * Created on 21. November. 16.
