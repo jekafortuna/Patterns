@@ -1,4 +1,4 @@
-package patterns.singleton_pattern;
+package patterns.creational.singleton_pattern;
 
 /**
  * Created on 21. November. 16.
