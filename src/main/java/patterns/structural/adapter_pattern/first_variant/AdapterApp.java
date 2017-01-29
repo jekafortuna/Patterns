@@ -1,4 +1,4 @@
-package patterns.adapter_pattern.first_variant;
+package patterns.structural.adapter_pattern.first_variant;
 
 import java.io.FileNotFoundException;
 

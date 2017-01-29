@@ -1,4 +1,4 @@
-package patterns.adapter_pattern.second_variant;
+package patterns.structural.adapter_pattern.second_variant;
 
 import java.util.ArrayList;
 import java.util.List;
