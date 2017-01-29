@@ -1,4 +1,4 @@
-package patterns.composite_pattern;
+package patterns.structural.composite_pattern;
 
 /**
  * Created on 21. November. 16.

@@ -1,4 +1,4 @@
-package patterns.composite_pattern;
+package patterns.structural.composite_pattern;
 
 import java.util.ArrayList;
 import java.util.List;
