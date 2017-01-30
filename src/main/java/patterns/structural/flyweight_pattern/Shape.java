@@ -1,4 +1,4 @@
-package patterns.flyweight_pattern;
+package patterns.structural.flyweight_pattern;
 
 /**
  * Created on 21. November. 16.
