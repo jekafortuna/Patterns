@@ -1,4 +1,4 @@
-package patterns.delegate_pattern;
+package patterns.structural.delegate_pattern;
 
 /**
  * Created on 21. November. 16.
