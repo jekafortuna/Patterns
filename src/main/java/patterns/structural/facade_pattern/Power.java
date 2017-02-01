@@ -1,4 +1,4 @@
-package patterns.facade_pattern;
+package patterns.structural.facade_pattern;
 
 /**
  * Created on 21. November. 16.
