@@ -1,4 +1,4 @@
-package patterns.decorator_pattern.second_variant.objects;
+package patterns.structural.decorator_pattern.second_variant.objects;
 
 /**
  * Created on 21. November. 16.

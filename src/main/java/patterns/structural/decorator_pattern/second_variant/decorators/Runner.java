@@ -1,9 +1,9 @@
-package patterns.decorator_pattern.second_variant.decorators;
+package patterns.structural.decorator_pattern.second_variant.decorators;
 
-import patterns.decorator_pattern.second_variant.objects.Button;
-import patterns.decorator_pattern.second_variant.objects.Component;
-import patterns.decorator_pattern.second_variant.objects.TextView;
-import patterns.decorator_pattern.second_variant.objects.Window;
+import patterns.structural.decorator_pattern.second_variant.objects.Button;
+import patterns.structural.decorator_pattern.second_variant.objects.Component;
+import patterns.structural.decorator_pattern.second_variant.objects.TextView;
+import patterns.structural.decorator_pattern.second_variant.objects.Window;
 
 /**
  * Created on 21. November. 16.

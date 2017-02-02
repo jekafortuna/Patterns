@@ -1,6 +1,6 @@
-package patterns.decorator_pattern.second_variant.decorators;
+package patterns.structural.decorator_pattern.second_variant.decorators;
 
-import patterns.decorator_pattern.second_variant.objects.Component;
+import patterns.structural.decorator_pattern.second_variant.objects.Component;
 
 /**
  * Created on 21. November. 16.
